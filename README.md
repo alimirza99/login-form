@@ -6,4 +6,4 @@ username
 
 password
 
-you can login through facebook,instagram
+you can login through facebook,instagram and geogle
