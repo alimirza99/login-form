@@ -1,15 +1,13 @@
 # login-form
 
-it is a simple login form
+It is a simple login form
 
-username
+##**Username**
 
-password
+##**password**
 
-username and password details should be correct
+**username and password details should be correct*
 
-you can login through facebook,instagram and geogle
+**you can login through facebook,instagram and geogle**
 
-it is made using html and css
-
-secure 100%
+*it is made using html and css <3*
